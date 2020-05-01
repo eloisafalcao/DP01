@@ -13,8 +13,8 @@ Gostou do projeto? Vem fazer parte dessa onda de pirralhas que querem mudar o mu
 Se você quer desenvolver suas habilidades na programação nessa quarentena, mas não sabe por onde começar, ou que projeto desenvolver, você chegou no lugar certo! 
 
 Nesse desafio você vai: 
-⋅⋅* Aprender a pensar em soluções para problemas reais 
-⋅⋅* Desenvolver uma aplicação 
-⋅⋅* A
-⋅⋅* A
-⋅⋅* A
+-Aprender a pensar em soluções para problemas reais 
+-Desenvolver uma aplicação 
+-A
+-A
+-A
