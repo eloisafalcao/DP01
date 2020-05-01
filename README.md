@@ -1,10 +1,11 @@
 # DP01
 ### Repositório criado para o Desafio de Programação 01 do Zero e Umas.
-==============================================================================================================================
+
+======
 
 ????///////////////////////// IMAGEM BANNER COM TITULO DO PROEJTO E CONTATO ????/////////////////////////
 
-==============================================================================================================================
+======
 
 A inspiração para esse repositório pode ser encontrada [aqui](https://github.com/florinpop17/app-ideas/blob/master/README.md).
 
