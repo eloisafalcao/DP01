@@ -1,7 +1,7 @@
 # DP01
 ###### Repositório criado para o Desafio de Programação 01 do Zero e Umas.
 
-![App Ideas Image](https://ibb.co/GV40hZ9)
+![App Ideas Image](https://github.com/paulaleite/ZeroEUmasImagens/blob/master/Desafio%20de%20Programcao.png)
 
 A inspiração para esse repositório pode ser encontrada [aqui](https://github.com/florinpop17/app-ideas/blob/master/README.md), vale muito a pena conferir para continuar se desenvolvendo. 
 
