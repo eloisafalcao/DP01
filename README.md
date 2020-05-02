@@ -3,9 +3,7 @@
 
 ![Desafio%20de%20Programcao.png](https://github.com/paulaleite/ZeroEUmasImagens/blob/master/Desafio%20de%20Programcao.png)
 
-A inspiração para esse repositório pode ser encontrada [aqui](https://github.com/florinpop17/app-ideas/blob/master/README.md), vale muito a pena conferir para continuar se desenvolvendo. 
-
-Esse projeto foi desenvolvido pelo coletivo Zero e Umas, mais informações é só consultar nosso [Instagram](https://www.instagram.com/zeroeumas/?hl=es-la), ou nosso [Medium](https://medium.com/0-umas). 
+A inspiração para esse repositório pode ser encontrada [aqui](https://github.com/florinpop17/app-ideas/blob/master/README.md), vale muito a pena conferir para continuar se desenvolvendo. Esse projeto foi desenvolvido pelo coletivo Zero e Umas, mais informações é só consultar nosso [Instagram](https://www.instagram.com/zeroeumas/?hl=es-la), ou nosso [Medium](https://medium.com/0-umas). 
 
 Gostou do projeto? Vem fazer parte dessa onda de pirralhas que querem mudar o mundo!
 #
@@ -41,5 +39,11 @@ Lembrando que você sempre pode pedir ajuda!
 
 Agora é só arregaçar as mangas e se preparar para um mês de aprendizado bastante intenso, e lembrando sempre #ficamecasa.
 
+## Cronograma e desafios
 
+| Etapa/Dia     | Descrição                                           | Link  | 
+| ------------- |:---------------------------------------------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
