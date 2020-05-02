@@ -19,10 +19,10 @@ Nesse desafio você vai:
 
 Queremos que você seja protagonista do seu aprendizado, mas nem sempre é fácil saber por onde começar ou quais conteúdos estudar. Por isso ao longo do mês de maio vamos lançar alguns pequenos desafios *que se complementam*, resultando na criação de um produto final: **Uma plataforma que reuna dados gerais sobre a pandemia do COVID-19 no Brasil**.
 
-##### Beleza, e qual linguagem vamos aprender?
+#### Beleza, e qual linguagem vamos aprender?
 A linguagem que você quiser, os desafios são divididos por features, e isso te permite escolher qualquer linguagem que te interessar.
 
-##### Mas como vai ser essa plataforma? Um site? Um app? 
+#### Mas como vai ser essa plataforma? Um site? Um app? 
 Você decide, jovem padawan. Qual você quer aprender?
 
 #### Oxi, mas se eu vou fazer tudo, no que esse desafio vai me ajudar a aprender alguma coisa? 
