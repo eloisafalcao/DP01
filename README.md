@@ -37,7 +37,7 @@ E para isso, cada etapa do desafio vai contar com:
 
 Lembrando que você sempre pode pedir ajuda!
 
-Agora é só arregaçar as mangas e se preparar para um mês de aprendizado bastante intenso, e lembrando sempre #ficamecasa.
+Agora é só arregaçar as mangas e se preparar para um mês de aprendizado bastante intenso, e lembrando sempre #ficaemcasa.
 
 ## Cronograma e desafios
 
