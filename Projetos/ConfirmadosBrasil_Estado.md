@@ -2,8 +2,6 @@
 
 ## User Stories
 
-## Bonus features
+## Feature Bônus
 
-## Useful links and resources
-
-## Example projects
+## Links de ajuda
