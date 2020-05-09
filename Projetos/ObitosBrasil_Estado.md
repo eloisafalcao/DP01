@@ -1,7 +1,7 @@
 # ObitosBrasil_Estado
 Nós já conseguimos fazer alguns tipos de gráficos diferentes, bora aprender mais um e entender melhor como está a situação do COVID-19 no Brasil!
 
-Você deve terminar hoje com um gráfico de pizza que mostre a evolução dos casos de óbitos, de acordo com os dados de cada estado.
+Você deve terminar hoje com um gráfico de pizza que mostre a evolução dos casos de óbitos, de acordo com os dados de cada região brasileira.
 
 ## User Stories
 * Como um brasileiro em meio a pandemia, quero poder visualizar todos os óbitos no Brasil de acordo com estado para me manter informado da situação atual.
