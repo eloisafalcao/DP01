@@ -44,7 +44,7 @@ Agora é só arregaçar as mangas e se preparar para um mês de aprendizado bast
 | Título                                                             | Descrição                           | Dificuldade |
 | ------------------------------------------------------------------ | ----------------------------------- | ----------- |
 | [ConfirmadosBrasil_Estado](./Projetos/ConfirmadosBrasil_Estado.md) | Mostrar os casos confirmados do Brasil, de acordo com estado. | Baixo |
-| [Pessoas_Recuperadas](./Projetos/PessoasTestadas_Brasil.md) | Mostrar pessoas recuperadas. | Baixo |
+| [Pessoas_Recuperadas](./Projetos/Pessoas_Recuperadas.md) | Mostrar pessoas recuperadas. | Baixo |
 | [ObitosBrasil_Estado](./Projetos/ObitosBrasil_Estado.md) | Mostrar a quantidade de óbitos no Brasil, de acordo com estado. | Baixo |
 | [PessoasTestadas_Brasil](./Projetos/PessoasTestadas_Brasil.md)| Mostrar pessoas testadas no pais. | Baixo |
 | [TaxaObito_Brasil](./Projetos/TaxaObito_Brasil.md) | Calcule a taxa de óbitos: óbitos de hoje/óbitos total. Faça isso para os estados brasileiros. | Médio |
