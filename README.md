@@ -43,10 +43,10 @@ Agora é só arregaçar as mangas e se preparar para um mês de aprendizado bast
 
 | Título                                                             | Descrição                           | Dificuldade |
 | ------------------------------------------------------------------ | ----------------------------------- | ----------- |
-| [Ultima_Atualizacao](./Projetos/Ultima_Atualizacao.md) | Mostrar a ultima vez que aquilo foi atualizado. | Baixo |
-| [PessoasTestadas_Brasil](./Projetos/PessoasTestadas_Brasil.md)| Mostrar pessoas testadas no pais. | Baixo |
-| [ConfirmadosBrasil_Estado](./Projetos/ConfirmadosBrasil_Estado.md) | Mostrar os casos confirmados do Brasil, de acordo com estado. | Baixo |
-| [Pessoas_Recuperadas](./Projetos/PessoasRecuperadas_Brasil.md) | Mostrar pessoas recuperadas. | Baixo |
-| [ObitosBrasil_Estado](./Projetos/ObitosBrasil_Estado.md) | Mostrar a quantidade de óbitos no Brasil, de acordo com estado. | Baixo |
-| [TaxaObito_Brasil](./Projetos/TaxaObito_Brasil.md) | Calcule a taxa de óbitos: óbitos de hoje/óbitos total. Faça isso para os estados brasileiros. | Médio |
-| [Comparacao_TestadosObitosConfirmados](./Projetos/Comparacao_TestadosObitosConfirmados.md)| Comparar pessoas testadas, com óbitos desde que a pandemia chegou no Brasil, casos confirmados, e fazer uma relação teste/casos confirmados. | Alto |
+| [Ultima_Atualizacao](./Projetos/Ultima_Atualizacao.md) | Mostrar a ultima vez que aquilo foi atualizado. | :star: |
+| [PessoasTestadas_Brasil](./Projetos/PessoasTestadas_Brasil.md)| Mostrar pessoas testadas no pais. | :star::star: |
+| [ConfirmadosBrasil_Estado](./Projetos/ConfirmadosBrasil_Estado.md) | Mostrar os casos confirmados do Brasil, de acordo com estado. | :star::star::star: |
+| [Pessoas_Recuperadas](./Projetos/PessoasRecuperadas_Brasil.md) | Mostrar pessoas recuperadas. | :star::star: |
+| [ObitosBrasil_Estado](./Projetos/ObitosBrasil_Estado.md) | Mostrar a quantidade de óbitos no Brasil, de acordo com estado. | :star::star: |
+| [TaxaObito_Brasil](./Projetos/TaxaObito_Brasil.md) | Calcule a taxa de óbitos: óbitos de hoje/óbitos total. Faça isso para os estados brasileiros. | :star::star::star::star: |
+| [Comparacao_TestadosObitosConfirmados](./Projetos/Comparacao_TestadosObitosConfirmados.md)| Comparar pessoas testadas, com óbitos desde que a pandemia chegou no Brasil, casos confirmados, e fazer uma relação teste/casos confirmados. | :star::star::star::star::star: |
