@@ -1,7 +1,7 @@
 # Pessoas_Recuperadas
-Vamos continuar?
+Vamos continuar a brincar com gráficos?
 
-Mesmo esquema do anterior, use a mesma API, mas agora nós vamos atrás da quantidade de recuperados! Ao longo dos meses, nós tivemos muitos casos (aleluia) de recuperados do COVID-19. Vamos destacá-los fazendo uma análise desses dados.
+Mesmo esquema do anterior, use a mesma API, mas agora nós vamos atrás da quantidade de recuperados! Ao longo dos meses, nós tivemos muitos casos (aleluia) de pessoas recuperadas do COVID-19. Vamos destacá-los fazendo uma análise desses dados.
 
 Ao final, você deverá ter um gráfico de barras que mostre essa evolução.
 
@@ -20,4 +20,6 @@ Ao final, você deverá ter um gráfico de barras que mostre essa evolução.
 ## Feature Bônus
 
 ## Links de ajuda
+[Gráficos com matplotlib](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
+
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
