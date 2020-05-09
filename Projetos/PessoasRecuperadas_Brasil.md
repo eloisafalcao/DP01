@@ -1,7 +1,7 @@
 # Pessoas_Recuperadas
 Vamos continuar?
 
-Mesmo esquema do anterior, use a API que você utilizou, mas agora nós vamos atrás da quantidade de recuperados! Ao longo dos meses, nós tivemos muitos casos (aleluia) de recuperados do COVID-19. Vamos destacá-los fazendo uma análise desses dados.
+Mesmo esquema do anterior, use a mesma API, mas agora nós vamos atrás da quantidade de recuperados! Ao longo dos meses, nós tivemos muitos casos (aleluia) de recuperados do COVID-19. Vamos destacá-los fazendo uma análise desses dados.
 
 Ao final, você deverá ter um gráfico de barras que mostre essa evolução.
 
