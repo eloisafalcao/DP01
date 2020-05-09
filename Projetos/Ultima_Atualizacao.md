@@ -8,7 +8,7 @@ Mas lembre-se: você **têm** que consumir uma API!
 ## User Stories
 * Como um brasileiro em meio a pandemia, quero poder saber a data dos dados que eu estou visualizando para garantir a veracidade do dados.
 
-## Feature
+## Features
 -   [ ] Adquirir o data da API.
 -   [ ] Apresentar uma label em tela com a data.
 
