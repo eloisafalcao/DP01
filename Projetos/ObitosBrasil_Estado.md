@@ -19,4 +19,4 @@ Você deve terminar hoje com um gráfico de pizza que mostre a evolução dos ca
 ## Links de ajuda
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
 
-[Gráficos](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
+[Gráficos matplotlib](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
