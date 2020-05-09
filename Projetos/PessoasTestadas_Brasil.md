@@ -8,7 +8,7 @@ Para fazer isso, você deverá apresentá-los através de uma tabela por estado.
 ## User Stories
 * Como um brasileiro em meio a pandemia, quero poder visualizar todos os testes executados no  Brasil  para me manter informado da situação atual.
 
-## Feature
+## Features
 -   [ ] Adquirir os dados da API.
 -   [ ] Formular uma tabela que mostre os estados do Brasil e a valor de testados.
 -   [ ] Inserir os dados da API na tabela.
