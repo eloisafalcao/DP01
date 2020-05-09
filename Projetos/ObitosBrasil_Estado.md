@@ -1,5 +1,5 @@
 # ObitosBrasil_Estado
-Nós já conseguimos fazer dois tipos de gráficos diferentes, bora aprender mais um e entender melhor como está a situação do COVID-19 no Brasil!
+Nós já conseguimos fazer alguns tipos de gráficos diferentes, bora aprender mais um e entender melhor como está a situação do COVID-19 no Brasil!
 
 Você deve terminar hoje com um gráfico de pizza que mostre a evolução dos casos de óbitos, de acordo com os dados de cada estado.
 
