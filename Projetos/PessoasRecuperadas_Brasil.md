@@ -8,7 +8,7 @@ Ao final, você deverá ter um gráfico de barras que mostre essa evolução.
 ## User Stories
 * Como um brasileiro em meio a pandemia, quero poder visualizar todos as pessoas que se recuperaram no Brasil para me manter informado da situação atual.
 
-## Feature
+## Features
 -   [ ] Adicionar um retângulo em tela.
 -   [ ] Adicionar um retângulo para cada mês desde que a COVID-19 chegou no país e alinhá-los.
 -   [ ] Desenhar eixos e alinhar retângulos nos eixos.
