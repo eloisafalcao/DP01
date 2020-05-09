@@ -1,8 +1,5 @@
 # ConfirmadosBrasil_Estado
-Bora começar a nos divertir!
-O primeiro ponta pé desse Desafio de Programação será a análise dos dados de casos confirmados do COVID-19 no Brasil. Mas não é só isso, para ficar mais legal, você tem que adquirir esses dados de acordo com cada estado. Em "Links de ajuda" você tem uma API que poderá utilizar para isso, mas sinta-se a vontade de procurar uma outra que ache que caberia para fazer o que estamos solicitando.
-
-Mas lembre-se: você **têm** que consumir uma API!
+Agora vamos analisar os dados de casos confirmados do COVID-19 no Brasil. Mas não é só isso, para ficar mais legal, você tem que adquirir esses dados de acordo com cada estado.
 
 No final, você deverá ter um gráfico de linhas bunitim.
 
