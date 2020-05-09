@@ -22,6 +22,6 @@ No final, você deverá ter um gráfico de linhas bunitim.
 ## Feature Bônus
 
 ## Links de ajuda
-[O que é uma API](https://canaltech.com.br/software/o-que-e-api/)
+[Gráficos com matplotlib](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
 
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
