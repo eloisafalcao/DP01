@@ -43,10 +43,10 @@ Agora é só arregaçar as mangas e se preparar para um mês de aprendizado bast
 
 | Data              | Título                         | Descrição                           | Dificuldade |
 | ----------------- | ------------------------------ | ----------------------------------- | ----------- |
-| 18/05 a 22/05 | [Ultima_Atualizacao](./Projetos/Ultima_Atualizacao.md) | Mostrar a ultima vez que aquilo foi atualizado. | :star: |
-| 18/05 a 22/05 | [PessoasTestadas_Brasil](./Projetos/PessoasTestadas_Brasil.md)| Mostrar pessoas testadas no pais. | :star::star: |
-| 18/05 a 22/05 | [ConfirmadosBrasil_Estado](./Projetos/ConfirmadosBrasil_Estado.md) | Mostrar os casos confirmados do Brasil, de acordo com estado. | :star::star::star: |
-| 18/05 a 22/05 | [Pessoas_Recuperadas](./Projetos/PessoasRecuperadas_Brasil.md) | Mostrar pessoas recuperadas. | :star::star: |
-| 25/05 a 29/05 | [ObitosBrasil_Estado](./Projetos/ObitosBrasil_Estado.md) | Mostrar a quantidade de óbitos no Brasil, de acordo com estado. | :star::star: |
-| 25/05 a 29/05 | [TaxaObito_Brasil](./Projetos/TaxaObito_Brasil.md) | Calcule a taxa de óbitos: óbitos de hoje/óbitos total. Faça isso para os estados brasileiros. | :star::star::star::star: |
-| 01/05 a 05/06 | [Comparacao_TestadosObitosConfirmados](./Projetos/Comparacao_TestadosObitosConfirmados.md)| Comparar pessoas testadas, com óbitos desde que a pandemia chegou no Brasil, casos confirmados, e fazer uma relação teste/casos confirmados. | :star::star::star::star::star: |
+| 18/05 a 24/05 | [Ultima_Atualizacao](./Projetos/Ultima_Atualizacao.md) | Mostrar a ultima vez que aquilo foi atualizado. | :star: |
+| 18/05 a 24/05 | [PessoasTestadas_Brasil](./Projetos/PessoasTestadas_Brasil.md)| Mostrar pessoas testadas no pais. | :star::star: |
+| 25/05 a 31/05 | [ConfirmadosBrasil_Estado](./Projetos/ConfirmadosBrasil_Estado.md) | Mostrar os casos confirmados do Brasil, de acordo com estado. | :star::star::star: |
+| 25/05 a 31/05 | [Pessoas_Recuperadas](./Projetos/PessoasRecuperadas_Brasil.md) | Mostrar pessoas recuperadas. | :star::star: |
+| 01/05 a 07/06 | [ObitosBrasil_Estado](./Projetos/ObitosBrasil_Estado.md) | Mostrar a quantidade de óbitos no Brasil, de acordo com estado. | :star::star: |
+| 01/05 a 07/06 | [TaxaObito_Brasil](./Projetos/TaxaObito_Brasil.md) | Calcule a taxa de óbitos: óbitos de hoje/óbitos total. Faça isso para os estados brasileiros. | :star::star::star::star: |
+| 08/05 a 14/06 | [Comparacao_TestadosObitosConfirmados](./Projetos/Comparacao_TestadosObitosConfirmados.md)| Comparar pessoas testadas, com óbitos desde que a pandemia chegou no Brasil, casos confirmados, e fazer uma relação teste/casos confirmados. | :star::star::star::star::star: |
