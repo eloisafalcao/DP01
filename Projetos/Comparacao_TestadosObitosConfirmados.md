@@ -21,6 +21,8 @@ Esperamos que você tenha se divertido muito aprendendo, fique de olho no próxi
 ## Feature Bônus
 
 ## Links de ajuda
+[Criando uma tabela em Python](https://medium.com/0-umas/criando-uma-tabela-em-python-5a7c95d093e2)
+
 [Gráficos com matplotlib](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
 
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
