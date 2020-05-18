@@ -16,6 +16,6 @@ Para fazer isso, você deverá apresentá-los através de uma tabela por estado.
 ## Feature Bônus
 
 ## Links de ajuda
-[API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
-
 [Criando uma tabela em Python](https://medium.com/0-umas/criando-uma-tabela-em-python-5a7c95d093e2)
+
+[API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
