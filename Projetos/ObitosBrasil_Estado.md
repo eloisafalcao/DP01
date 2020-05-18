@@ -17,6 +17,8 @@ Você deve terminar hoje com um gráfico de pizza que mostre a evolução dos ca
 ## Feature Bônus
 
 ## Links de ajuda
+[Pizza… hum, vamos fazer gráficos!](https://medium.com/0-umas/pizza-hum-vamos-fazer-gr%C3%A1ficos-b982645bcaa2)
+
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
 
 [Gráficos matplotlib](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
