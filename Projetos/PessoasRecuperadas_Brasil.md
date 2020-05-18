@@ -20,6 +20,8 @@ Ao final, você deverá ter um gráfico de barras que mostre essa evolução.
 ## Feature Bônus
 
 ## Links de ajuda
+[Desenhando um gráfico de barras simples com Core Graphics](https://medium.com/0-umas/desenhando-um-gr%C3%A1fico-de-barras-simples-com-core-graphics-a68dc5df6b99)
+
 [Gráficos com matplotlib](https://matplotlib.org/3.2.1/tutorials/introductory/sample_plots.html)
 
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
