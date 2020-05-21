@@ -15,4 +15,6 @@ Mas lembre-se: você **têm** que consumir uma API!
 ## Feature Bônus
 
 ## Links de ajuda
+[Consumindo API com SwiftUI](https://medium.com/0-umas/consumindo-api-com-swiftui-285dd055fb1a)
+
 [API do Corona, dados mundias e nacionais](https://github.com/devarthurribeiro/covid19-brazil-api)
